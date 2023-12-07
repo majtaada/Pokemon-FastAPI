@@ -1,4 +1,4 @@
-# Python Mikroslužba pre spracovánie dát
+# Python Mikroslužba pre spracovanie dát
 
 ## Instalace
 
