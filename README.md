@@ -29,3 +29,4 @@
 #### Vysvetlenie logiky
 
 Táto mikroslužba používa framework FastAPI pre vytvorenie jednoduchého webového API, ktoré poskytuje informácie o Pokemónovi na základe mena. Je to riešené HTTP GET requestom na PokeAPI a získaná odpoveď je spracovaná vo formáte JSON.
+# Pokemon-FastAPI
